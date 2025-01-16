@@ -1,1 +1,4 @@
 https://github.com/yifengyou/jz2440/blob/master/docs/Linux%E9%A9%B1%E5%8A%A8/%E5%AD%97%E7%AC%A6%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8%E7%A8%8B%E5%BA%8F%E4%B9%8B%E4%B8%AD%E6%96%AD%E6%96%B9%E5%BC%8F%E7%9A%84%E6%8C%89%E9%94%AE%E9%A9%B1%E5%8A%A8_%E7%BC%96%E5%86%99%E4%BB%A3%E7%A0%81.md
+
+ioctl函数 
+poll()函数 gpio监听
